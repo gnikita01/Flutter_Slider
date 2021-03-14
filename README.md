@@ -1,6 +1,6 @@
-# flutter_newsapp
+# Flutter Carousel
 
-A new Flutter application.
+Code to add carousel between images. I used famous Tom and Jerry images to create this animation. The carousel looks like Tom is trying to catch Jerry as usual. Why don't you give it a try once? :)
 
 ## Getting Started
 
